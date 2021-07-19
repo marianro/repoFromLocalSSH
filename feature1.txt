@@ -1,2 +1,6 @@
 new file added on feature1 branch
+<<<<<<< HEAD
 ana are mere mari
+=======
+test19iulie
+>>>>>>> feature4
